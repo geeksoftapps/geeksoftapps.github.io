@@ -1,0 +1,86 @@
+Tier 1:
+United States of America
+United Kingdom
+Switzerland
+Sweden
+Spain
+Norway
+New Zealand
+Netherlands
+Luxembourg
+Italy
+Ireland
+Germany
+France
+Finland
+Denmark
+Canada
+Belgium
+Austria
+Australia
+
+
+Tier 2:
+Andorra
+Argentina
+Bahamas
+Belarus
+Bolivia
+Bosnia and Herzegovina
+Brazil
+Brunei
+Bulgaria
+Chile
+China
+Colombia
+Costa Rica
+Croatia
+Cyprus
+Czech Republic
+Dominican Republic
+Ecuador
+Egypt
+Estonia
+Fiji
+Greece
+Guyana
+Hong Kong
+Hungary
+Iceland
+Indonesia
+Israel
+Japan
+Kazakhstan
+Latvia
+Lithuania
+Macao
+Malaysia
+Malta
+Mexico
+Montenegro
+Morocco
+Nepal
+Oman
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of Korea (South)
+Romania
+Russian Federation
+Saudi Arabia
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+Thailand
+Turkey
+Ukraine
+United Arab Emirates
+Uruguay
+Vanuatu
